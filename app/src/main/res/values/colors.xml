@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#6200EE</color>
+    <color name="primaryDarkColor">#3700B3</color>
+    <color name="backgroundColor">#FFFFFF</color>
+    <color name="textColorSecondary">#757575</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="rippleColor">#FFCCCCCC</color> <!-- Example ripple color -->
+    <color name="hintColor">#808080</color> <!-- Gray for hint -->
+    <color name="textColorPrimary">#000000</color> <!-- Black for text -->
+    <color name="priceColor">#388E3C</color> <!-- Adjusted green for better visibility -->
+    <color name="secondaryColor">#FF9800</color> <!-- Secondary button color -->
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "965065200789",
+    "project_id": "shoppingcart-cd16f",
+    "storage_bucket": "shoppingcart-cd16f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965065200789:android:fe992fc7247a60564f779c",
+        "android_client_info": {
+          "package_name": "com.koraykarsan.shoppingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf_JquaTjqrXEkvsGGKVPkd6B9LmQOUJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965065200789:android:49d2e3b95c024d5f4f779c",
+        "android_client_info": {
+          "package_name": "com.koraykarsan.shoppingcartapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf_JquaTjqrXEkvsGGKVPkd6B9LmQOUJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
